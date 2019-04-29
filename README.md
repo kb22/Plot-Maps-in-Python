@@ -10,7 +10,7 @@ git clone https://github.com/kb22/Plot-Maps-in-Python.git
 ```
 cd Plot-Maps-in-Python
 ```
-3. Download the data from [Kaggle](https://www.kaggle.com/darshank2019/business). Extarct the zip. Rename the file as `dataset.csv` and save it to the folder `data` inside the directory `Plot-Maps-in-Python`
+3. Download the data from [Kaggle](https://www.kaggle.com/darshank2019/business). Extract the zip. Rename the file as `dataset.csv` and save it to the folder `data` inside the directory `Plot-Maps-in-Python`
 4. Create a virtual environment
 ```
 virtualenv -p Python3 .
