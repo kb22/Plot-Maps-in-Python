@@ -28,3 +28,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 8. Run the file `Plot Maps in Python.ipynb`
+
+### Required API Keys
+You will need two keys to make this work:
+1. Google API Key: Create an account on https://console.cloud.google.com with a trial of 12 months and get access to the API key for Google Maps JavaScript API.
+2. Plotly API Key: Create an account on https://plot.ly/feed/#/ and get an API Key.
