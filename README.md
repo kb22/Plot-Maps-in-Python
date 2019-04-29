@@ -1,7 +1,7 @@
 # Plot-Maps-in-Python
 A Data Visualization project that includes multitude of ways to plot locations on a Map.
 
-# Setup (Using virtualenv)
+### Setup (Using virtualenv)
 1. Clone the repository to your system
 ```
 git clone https://github.com/kb22/Plot-Maps-in-Python.git
